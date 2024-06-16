@@ -1,6 +1,6 @@
 # From RAG to Deploy: Building and Deploying a Retrieval Augmented Generation (RAG) App
 
-[https://langchain-rag-tutorial-jo3ssccpka-no.a.run.app/]
+https://langchain-rag-tutorial-jo3ssccpka-no.a.run.app/
 
 ## Installation
 
