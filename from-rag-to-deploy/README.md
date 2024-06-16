@@ -1,4 +1,5 @@
-# app
+# From RAG to Deploy: Building and Deploying a Retrieval Augmented Generation (RAG) App
+
 
 ## Installation
 
