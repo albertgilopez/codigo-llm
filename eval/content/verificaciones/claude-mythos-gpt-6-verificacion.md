@@ -5,7 +5,7 @@ fecha_verificacion: "2026-04-10"
 fecha_pieza: "2026-04-09"
 autor_pieza: "Pep Martorell"
 plataforma: "LinkedIn"
-url_original: "https://pepmartorell.substack.com"
+url_original: "https://www.linkedin.com/posts/josepmariamartorellrodon_tanto-openai-como-anthropic-siguen-enfrascados-activity-7447875941223137280-o_zz"
 veredicto_agregado: "HUMO"
 veredicto_emoji: "💨"
 veredictos_contados:
@@ -21,7 +21,7 @@ tiempo_invertido: "2h"
 
 # La "carrera imparable" entre Anthropic y OpenAI: base factual sólida, marco narrativo selectivo
 
-> **Fuente original:** Post de LinkedIn publicado por la página *DeepTech & Science* ("Más madera"), también publicado en el Substack pepmartorell.substack.com
+> **Fuente original:** ["Más madera" — Post de Pep Martorell en DeepTech & Science](https://www.linkedin.com/posts/josepmariamartorellrodon_tanto-openai-como-anthropic-siguen-enfrascados-activity-7447875941223137280-o_zz), también publicado en [pepmartorell.substack.com](https://pepmartorell.substack.com)
 > **Plataforma:** LinkedIn (+ Substack)
 > **Autor:** Pep Martorell
 > **Fecha fuente:** 2026-04-09

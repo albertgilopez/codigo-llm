@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { Container, Title, Text, Stack, Group, Divider } from '@mantine/core';
+import { Container, Title, Text, Stack, Group, Divider, Anchor } from '@mantine/core';
 import { getVerificacionBySlug, getAllSlugs } from '../../../src/lib/verificaciones';
 import { VerdictBadge } from '../../../src/components/VerdictBadge';
 import { MarkdownRenderer } from '../../../src/components/MarkdownRenderer';
@@ -90,6 +90,16 @@ export default async function VerificacionPage({ params }: PageProps) {
             </Text>
           </Group>
           <Title order={1}>{frontmatter.titulo}</Title>
+          {frontmatter.url_original && (
+            <Anchor
+              href={frontmatter.url_original}
+              target="_blank"
+              rel="noreferrer"
+              size="sm"
+            >
+              Ver pieza original →
+            </Anchor>
+          )}
           <Group gap="xs">
             <Text size="sm" c="dimmed">
               Pieza: {frontmatter.fecha_pieza}
